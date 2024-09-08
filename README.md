@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Patrice aka @Patdev2020
 - 👀 I’m interested in Python learning
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on speach with AI
+- 🌱 I’m currently learning Python, Could (AWS, AI, Security)
+- 💞️ I’m looking to collaborate on speech with AI
 - 📫 How to reach me patdev2020@gmail.com
 
 <!---
